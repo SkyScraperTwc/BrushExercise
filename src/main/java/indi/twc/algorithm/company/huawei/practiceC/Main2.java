@@ -19,15 +19,10 @@ public class Main2{
     		String s[] = new String[total];
     		for (int i = 0; i < total; i++) { 
 				s[i] = scan.next();  
-			}  
-//    		System.out.println(Arrays.toString(s));
-    		
+			}
     		String tgStr = scan.next();
     		int index = scan.nextInt();   
-    		
-//    		System.out.println(tgStr); 
-//    		System.out.println(index);  
-    		
+
     		int cnt = 0; 
     		List<Character> cpList = new ArrayList<Character>();
     		List<Character> tgList = new ArrayList<Character>();
