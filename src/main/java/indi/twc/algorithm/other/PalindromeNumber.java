@@ -1,5 +1,8 @@
 package indi.twc.algorithm.other;
 
+/**
+ * 反转字符串
+ */
 public class PalindromeNumber {
 
 	public static void main(String[] args) {
