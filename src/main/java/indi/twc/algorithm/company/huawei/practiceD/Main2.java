@@ -1,4 +1,4 @@
-package indi.twc.algorithm.huawei.practiceD;
+package indi.twc.algorithm.company.huawei.practiceD;
  
 import java.util.Scanner;
 import java.util.Set;

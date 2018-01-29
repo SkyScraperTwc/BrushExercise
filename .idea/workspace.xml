@@ -2,52 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e790a05-9555-4679-8407-e1430b0787ca" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/dynamic/BackpackDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/other/DailyPaper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/other/NiuKeTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/other/PrimeNumber.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/other/Recursion.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/search/BinarySearch.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/sort/improve/HeapSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/sort/improve/QuickSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/sort/simple/BulbleSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/sort/simple/ExchangeSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/sort/simple/InsertSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/utils/AlgorithmUtils.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/other/Sort.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/huawei/practiceA/Main.java" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/company/huawei/practiceA/Main.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/huawei/practiceA/Main10.java" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/company/huawei/practiceA/Main10.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/huawei/practiceA/Main2.java" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/company/huawei/practiceA/Main2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/huawei/practiceA/Main3.java" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/company/huawei/practiceA/Main3.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/huawei/practiceA/Main4.java" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/company/huawei/practiceA/Main4.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/huawei/practiceA/Main5.java" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/company/huawei/practiceA/Main5.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/huawei/practiceA/Main6.java" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/company/huawei/practiceA/Main6.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/huawei/practiceA/Main7.java" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/company/huawei/practiceA/Main7.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/huawei/practiceA/Main8.java" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/company/huawei/practiceA/Main8.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/huawei/practiceA/Main9.java" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/company/huawei/practiceA/Main9.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/huawei/practiceB/Main.java" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/company/huawei/practiceB/Main.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/huawei/practiceB/Main10.java" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/company/huawei/practiceB/Main10.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/huawei/practiceB/Main2.java" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/company/huawei/practiceB/Main2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/huawei/practiceB/Main3.java" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/company/huawei/practiceB/Main3.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/huawei/practiceB/Main4.java" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/company/huawei/practiceB/Main4.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/huawei/practiceB/Main5.java" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/company/huawei/practiceB/Main5.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/huawei/practiceB/Main6.java" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/company/huawei/practiceB/Main6.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/huawei/practiceB/Main7.java" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/company/huawei/practiceB/Main7.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/huawei/practiceB/Main8.java" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/company/huawei/practiceB/Main8.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/huawei/practiceB/Main9.java" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/company/huawei/practiceB/Main9.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/huawei/practiceC/Main.java" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/company/huawei/practiceC/Main.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/huawei/practiceC/Main10.java" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/company/huawei/practiceC/Main10.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/huawei/practiceC/Main2.java" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/company/huawei/practiceC/Main2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/huawei/practiceC/Main3.java" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/company/huawei/practiceC/Main3.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/huawei/practiceC/Main4.java" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/company/huawei/practiceC/Main4.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/huawei/practiceC/Main5.java" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/company/huawei/practiceC/Main5.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/huawei/practiceC/Main6.java" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/company/huawei/practiceC/Main6.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/huawei/practiceC/Main7.java" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/company/huawei/practiceC/Main7.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/huawei/practiceC/Main8.java" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/company/huawei/practiceC/Main8.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/huawei/practiceC/Main9.java" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/company/huawei/practiceC/Main9.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/huawei/practiceD/Main.java" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/company/huawei/practiceD/Main.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/huawei/practiceD/Main2.java" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/company/huawei/practiceD/Main2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/huawei/practiceD/Main3.java" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/company/huawei/practiceD/Main3.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/other/PalindromeNumber.java" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/other/PalindromeNumber.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -84,40 +43,38 @@
       <file leaf-file-name="BinarySearch.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/indi/twc/algorithm/search/BinarySearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" column="49" lean-forward="true" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+            <state relative-caret-position="360">
+              <caret line="20" column="14" lean-forward="false" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InsertSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/indi/twc/algorithm/sort/simple/InsertSort.java">
+      <file leaf-file-name="Main3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/indi/twc/algorithm/company/huawei/practiceD/Main3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="30" lean-forward="false" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+            <state relative-caret-position="-8">
+              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SelectSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/indi/twc/algorithm/sort/simple/SelectSort.java">
+      <file leaf-file-name="Main2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/indi/twc/algorithm/company/huawei/practiceD/Main2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="18" column="50" lean-forward="false" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-8">
+              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DailyPaper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/indi/twc/algorithm/other/DailyPaper.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/indi/twc/algorithm/company/huawei/practiceD/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+            <state relative-caret-position="162">
+              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -235,6 +192,7 @@
         <option value="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/other/Recursion.java" />
         <option value="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/other/NiuKeTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/search/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/company/huawei/practiceD/Main.java" />
       </list>
     </option>
   </component>
@@ -339,6 +297,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BrushExercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BrushExercise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BrushExercise" type="b2602c69:ProjectViewProjectNode" />
@@ -657,12 +624,20 @@
       <workItem from="1510994798868" duration="11539000" />
       <workItem from="1511877542378" duration="2513000" />
       <workItem from="1511923049228" duration="13033000" />
-      <workItem from="1517236886353" duration="643000" />
+      <workItem from="1517236886353" duration="817000" />
     </task>
+    <task id="LOCAL-00001" summary="222">
+      <created>1517237550137</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1517237550137</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43359000" />
+    <option name="totallyTimeSpent" value="43533000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="349" y="0" width="1571" height="1040" extended-state="0" />
@@ -673,9 +648,9 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17227723" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17227723" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29424778" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29424778" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937294" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -703,35 +678,15 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="222" />
+    <option name="LAST_COMMIT_MESSAGE" value="222" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/indi/twc/algorithm/company/huawei/practiceA/Main7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/indi/twc/algorithm/company/huawei/practiceA/Main8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/indi/twc/algorithm/company/huawei/practiceA/Main9.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1082,10 +1037,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/indi/twc/algorithm/company/huawei/practiceD/Main3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/indi/twc/algorithm/company/huawei/practiceD/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/indi/twc/algorithm/company/huawei/practiceD/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/indi/twc/algorithm/search/BinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="49" lean-forward="true" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+        <state relative-caret-position="360">
+          <caret line="20" column="14" lean-forward="false" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
           <folding />
         </state>
       </provider>
