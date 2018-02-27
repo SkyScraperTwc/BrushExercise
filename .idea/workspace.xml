@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7e790a05-9555-4679-8407-e1430b0787ca" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/sort/simple/InsertSort.java" afterPath="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/sort/simple/InsertSort.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -36,7 +37,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinarySearch.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BinarySearch.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/indi/twc/algorithm/search/BinarySearch.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
@@ -111,18 +112,18 @@
       <file leaf-file-name="BackpackDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/indi/twc/algorithm/dynamic/BackpackDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="270">
+              <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PalindromeNumber.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/indi/twc/algorithm/other/PalindromeNumber.java">
+      <file leaf-file-name="InsertSort.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/indi/twc/algorithm/sort/simple/InsertSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="396">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -182,13 +183,13 @@
         <option value="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/sort/simple/BulbleSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/sort/simple/ExchangeSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/sort/simple/SelectSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/sort/simple/InsertSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/dynamic/BackpackDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/other/PalindromeNumber.java" />
         <option value="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/other/Recursion.java" />
         <option value="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/other/NiuKeTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/company/huawei/practiceD/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/search/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/indi/twc/algorithm/sort/simple/InsertSort.java" />
       </list>
     </option>
   </component>
@@ -292,6 +293,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BrushExercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BrushExercise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="huawei" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BrushExercise" type="b2602c69:ProjectViewProjectNode" />
@@ -607,7 +617,7 @@
       <workItem from="1511877542378" duration="2513000" />
       <workItem from="1511923049228" duration="13033000" />
       <workItem from="1517236886353" duration="817000" />
-      <workItem from="1519714429658" duration="20000" />
+      <workItem from="1519714429658" duration="113000" />
     </task>
     <task id="LOCAL-00001" summary="222">
       <created>1517237550137</created>
@@ -616,11 +626,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517237550137</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="222&#10;222">
+      <created>1519714455552</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1519714455552</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43553000" />
+    <option name="totallyTimeSpent" value="43646000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1913" y="-1" width="1934" height="1088" extended-state="6" />
@@ -663,7 +680,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="222" />
-    <option name="LAST_COMMIT_MESSAGE" value="222" />
+    <MESSAGE value="222&#10;222" />
+    <option name="LAST_COMMIT_MESSAGE" value="222&#10;222" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -911,22 +929,6 @@
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/../../jdk1.7.0_79/src.zip!/java/lang/System.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/indi/twc/algorithm/sort/simple/InsertSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="30" lean-forward="false" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/indi/twc/algorithm/dynamic/BackpackDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/indi/twc/algorithm/other/PalindromeNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -997,6 +999,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/indi/twc/algorithm/dynamic/BackpackDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/indi/twc/algorithm/sort/simple/InsertSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>
