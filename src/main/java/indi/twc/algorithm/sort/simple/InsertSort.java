@@ -20,6 +20,7 @@ public class InsertSort {
             }
             a[j] = temp;
         }
+
         System.out.println(Arrays.toString(a));
     }
 }
