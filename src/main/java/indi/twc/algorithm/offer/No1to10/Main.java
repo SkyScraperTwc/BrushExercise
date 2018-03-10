@@ -1,4 +1,4 @@
-package indi.twc.algorithm.offer.num1to10;
+package indi.twc.algorithm.offer.No1to10;
 
 /**
  * 二维数组中的查找

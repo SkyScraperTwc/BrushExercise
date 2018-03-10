@@ -1,4 +1,4 @@
-package indi.twc.algorithm.offer.num1to10;
+package indi.twc.algorithm.offer.No1to10;
 
 import indi.twc.algorithm.offer.common.ListNode;
 
@@ -15,14 +15,14 @@ public class Main3 {
 
     public ArrayList<Integer> printListFromTailToHead(ListNode listNode) {
         if (listNode == null){
-            return new ArrayList<Integer>();
+            return new ArrayList<>();
         }
-        Stack<Integer> stack = new Stack<Integer>();
+        Stack<Integer> stack = new Stack<>();
         while (listNode != null) {
             stack.push(listNode.val);
             listNode = listNode.next;
         }
-        ArrayList<Integer> list = new ArrayList<Integer>();
+        ArrayList<Integer> list = new ArrayList<>();
         while (stack.size() > 0) {
             list.add(stack.pop());
         }

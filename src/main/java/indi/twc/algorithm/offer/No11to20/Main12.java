@@ -1,4 +1,4 @@
-package indi.twc.algorithm.offer.num11to20;
+package indi.twc.algorithm.offer.No11to20;
 
 import java.util.Arrays;
 

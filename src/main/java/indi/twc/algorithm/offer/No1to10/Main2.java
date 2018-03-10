@@ -1,4 +1,4 @@
-package indi.twc.algorithm.offer.num1to10;
+package indi.twc.algorithm.offer.No1to10;
 
 /**
  * 替换空格
