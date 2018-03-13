@@ -7,10 +7,10 @@ public class BinarySearch {
     public static void main(String[] args) {
         int arr[] = {0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15};
         //要寻找的目标数字
-        int target = 6;
+        int target = 10;
         //返回下标
-        int index =  binarySearch(arr,target);
-        System.out.println(index);
+        int index =  binarySearch(arr, target);
+        System.out.println(arr[index] == target);
     }
 
     /**
@@ -24,13 +24,13 @@ public class BinarySearch {
         int left = 0;
         int right = a.length-1;
         //循环条件，适时而变
-        while (left<=right){
-            int middle = left+(right-left)/2;
+        while (left <= right){
+            int middle = (right + left) / 2;
             if (a[middle] > target){
-                right = middle-1;
-            }else if (a[middle] < target){
-                left = middle+1;
-            }else {
+                right = middle - 1;
+            } else if (a[middle] < target){
+                left = middle + 1;
+            } else {
                 return middle;
             }
         }
