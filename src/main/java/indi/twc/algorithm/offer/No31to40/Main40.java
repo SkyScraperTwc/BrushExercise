@@ -8,33 +8,34 @@ import java.util.ArrayList;
  */
 public class Main40 {
     public static void main(String[] args) {
-
+        System.out.println(FindContinuousSequence(100));
     }
 
-    public ArrayList<ArrayList<Integer>> FindContinuousSequence(int sum) {
-        ArrayList<ArrayList<Integer>> ret = new ArrayList<>();
-        int start = 1, end = 2;
+    public static ArrayList<ArrayList<Integer>> FindContinuousSequence(int sum) {
+        ArrayList<ArrayList<Integer>> lists = new ArrayList<>();
+        int start = 1;
+        int end = 2;
         int mid = sum / 2;
-        int curSum = 3;
+        int ret = start + end;
         while (start <= mid && end < sum) {
-            if (curSum > sum) {
-                curSum -= start;
-                start++;
-            } else if (curSum < sum) {
+            if (ret < sum) {
                 end++;
-                curSum += end;
+                ret = ret + end;
+            } else if (ret > sum){
+                ret = ret - start;
+                start++;
             } else {
                 ArrayList<Integer> list = new ArrayList<>();
                 for (int i = start; i <= end; i++) {
                     list.add(i);
                 }
-                ret.add(list);
-                curSum -= start;
+                lists.add(list);
+                ret = ret - start;
                 start++;
                 end++;
-                curSum += end;
+                ret = ret + end;
             }
         }
-        return ret;
+        return lists;
     }
 }
