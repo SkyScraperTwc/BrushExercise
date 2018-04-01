@@ -7,7 +7,7 @@ import java.util.Arrays;
 /**
  * 冒泡排序
  */
-public class BulbleSort {
+public class BubbleSort {
     public static void main(String[] args) {
         int arr[] = {2,6,13,8,4,1,9,15,3,10,11,12,7,5,14,16};
         bulbleSort(arr);

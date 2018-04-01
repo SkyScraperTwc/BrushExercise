@@ -20,6 +20,7 @@ public class QuickSort {
             quickSort(a,low,index-1);
             quickSort(a,index+1,high);
         }
+
     }
 
     public static int partition(int a[], int low, int high){
@@ -27,12 +28,12 @@ public class QuickSort {
 
         while(low < high){
 
-            while(low < high&& a[high]>=pivot) {
+            while(low < high && a[high] >= pivot) {
                 high--;
             }
             AlgorithmUtils.swap(a,low,high);
 
-            while(low<high && a[low]<=pivot) {
+            while(low < high && a[low] <= pivot) {
                 low++;
             }
             AlgorithmUtils.swap(a,low,high);

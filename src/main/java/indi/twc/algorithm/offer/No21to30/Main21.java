@@ -5,7 +5,7 @@ import indi.twc.algorithm.offer.common.TreeNode;
 import java.util.*;
 
 /**
- * 从上往下打印二叉树
+ * 从上往下打印二叉树，层序遍历
  */
 public class Main21 {
     public static void main(String[] args) {
