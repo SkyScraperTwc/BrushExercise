@@ -10,7 +10,6 @@ public class CountSort {
     public static void main(String[] args) {
         int arr[] = {2,6,8,4,1,9,15,3,10,11,12,7,5,1,5,6};
         countSort(arr);
-
     }
 
 
@@ -25,9 +24,10 @@ public class CountSort {
         }
 
         int k = 0;
-        for (int i = 0; i <= max; i++) {
+        for (int i = 0; i < count.length; i++) {
             for (int j = 0; j < count[i]; j++) {
-                array[k++] = i;
+                array[k] = i;
+                k++;
             }
         }
         System.out.println(Arrays.toString(array));

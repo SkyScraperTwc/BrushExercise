@@ -14,9 +14,9 @@ public class ExchangeSort {
     }
 
     public static void exchangeSort(int a[]){
-        for (int i = 0; i <a.length ; i++) {
+        for (int i = 0; i < a.length ; i++) {
             for (int j = i+1; j < a.length; j++) {
-                if (a[i]>a[j]){
+                if (a[i] > a[j]){
                     AlgorithmUtils.swap(a,i,j);
                 }
             }

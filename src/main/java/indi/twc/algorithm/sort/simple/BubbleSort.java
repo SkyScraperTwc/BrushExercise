@@ -16,7 +16,7 @@ public class BubbleSort {
     public static void bulbleSort(int a[]){
         for (int i = 0; i <a.length ; i++) {
             for (int j = a.length-1; j>i ; j--) {
-                if (a[j]<a[j-1]){
+                if (a[j] < a[j-1]){
                     AlgorithmUtils.swap(a,j,j-1);
                 }
             }
